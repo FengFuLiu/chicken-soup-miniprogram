@@ -1,0 +1,31 @@
+<!-- index.wxml -->
+<view class=" loading-pos boxLoading"></view>
+<swiper class="swiper-cntainer" vertical bindchange="handleSwiper">
+  <swiper-item wx:for="{{list}}" wx:key="index">
+    <view class="main" style="background-image: url({{item.uri}});">
+      <view class="container">
+        <view class="content" wx:if="{{!isBoyContent}}">{{content}}</view>
+        <view class="content" wx:else>
+          <view class="day text-xl">
+            <text class="text-xxxl">{{day}}</text>
+            <text class="cuIcon-copy text-white" bindtap="setClipboardData"></text>
+          </view>
+          <view class="text-xl margin-bottom-xs">{{month}}.{{year}}</view>
+          <view class="text-lg boyContent">{{item.said}}</view>
+        </view>
+        <view class="text-xxxl text-center">
+          <text class="cuIcon-unfold text-gray"></text>
+        </view>
+      </view>
+      <!-- <view class="btn">
+        <button bindtap="getContent" class="bg-green btn1" wx:if="{{!isBoyContent}}">下一条</button>
+        <button bindtap="getBoyContent" class="bg-green btn1" wx:else>下一条</button>
+        <button bindtap="setClipboardData" class="bg-green btn1">复制</button>
+      </view>
+      <view class="page-icon">
+        <text class="text-green" bindtap="toggleEvent" wx:if="{{!isBoyContent}}">舔狗日记</text>
+        <text class="text-green" bindtap="toggleEvent" wx:else>毒鸡汤</text>
+      </view> -->
+    </view>
+  </swiper-item>
+</swiper>

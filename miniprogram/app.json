@@ -1,0 +1,14 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/logs/logs"
+    ],
+    "window": {
+      "navigationBarTitleText": "Demo",
+      "navigationStyle":"custom"
+    },
+    "navigateToMiniProgramAppIdList": [
+        "wx413b24db816ca6bf"
+    ],
+    "sitemapLocation": "sitemap.json"
+}
