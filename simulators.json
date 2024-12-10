@@ -2,7 +2,7 @@
     {
         "name": "EM300",
         "band": "EU868",
-        "txPower": 15
+        "txPower": 150
     },
     {
         "name": "EM300",
