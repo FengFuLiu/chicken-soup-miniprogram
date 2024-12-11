@@ -1,2542 +1,597 @@
 [
     {
-        "band": "EU868",
         "name": "EM300-CL",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-CL",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-CL",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-CL",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-CL",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-CL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-CL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-CL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-CL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-CL",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-CL",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-DI",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-DI",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-DI",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-DI",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-DI",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-DI",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-DI",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-DI",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-DI",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-DI",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-DI",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-DI-HALL",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-DI-HALL",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-DI-HALL",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-DI-HALL",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-DI-HALL",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-DI-HALL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-DI-HALL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-DI-HALL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-DI-HALL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-DI-HALL",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-DI-HALL",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-MCS",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-MCS",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-MCS",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-MCS",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-MCS",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-MCS",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-MCS",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-MCS",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-MCS",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-MCS",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-MCS",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-MCS-N00CN",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-MCS-N00CN",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-MCS-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-MCS-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-MCS-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-MCS-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-MCS-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-MCS-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-MCS-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-MCS-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-MCS-N00CN",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-MLD",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-MLD",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-MLD",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-MLD",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-MLD",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-MLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-MLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-MLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-MLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-MLD",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-MLD",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-SLD",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-SLD",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-SLD",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-SLD",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-SLD",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-SLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-SLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-SLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-SLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-SLD",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-SLD",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-SLD-N00CN",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-SLD-N00CN",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-SLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-SLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-SLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-SLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-SLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-SLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-SLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-SLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-SLD-N00CN",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-SW",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-SW",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-SW",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-SW",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-SW",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-SW",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-SW",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-SW",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-SW",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-SW",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-SW",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-SW-N00CN",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-SW-N00CN",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-SW-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-SW-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-SW-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-SW-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-SW-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-SW-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-SW-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-SW-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-SW-N00CN",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-TH",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-TH",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-TH",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-TH",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-TH",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-TH",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-TH-N00CN",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-TH-N00CN",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-TH-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-TH-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-TH-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-TH-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-TH-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-TH-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-TH-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-TH-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-TH-N00CN",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-WL",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-WL",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-WL",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-WL",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-WL",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-WL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-WL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-WL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-WL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-WL",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-WL",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-ZLD",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-ZLD",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-ZLD",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-ZLD",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-ZLD",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-ZLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-ZLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-ZLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-ZLD",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-ZLD",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-ZLD",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM300-ZLD-N00CN",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM300-ZLD-N00CN",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM300-ZLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM300-ZLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM300-ZLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM300-ZLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM300-ZLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM300-ZLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM300-ZLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM300-ZLD-N00CN",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM300-ZLD-N00CN",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM310-TILT",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM310-TILT",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM310-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM310-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM310-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM310-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM310-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM310-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM310-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM310-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM310-TILT",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "EU868",
         "name": "EM310-UDL",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "EM310-UDL",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "IN865",
         "name": "EM310-UDL",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM310-UDL",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM310-UDL",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM310-UDL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM310-UDL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM310-UDL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM310-UDL",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM310-UDL",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "EM310-UDL",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "US915",
         "name": "WS513",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "WS513",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "WS513",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "WS513",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "WS513",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "WS513",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "WS513",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "WS513",
-        "txPower": 8
-    },
-    {
-        "band": "RU864",
-        "name": "WS513",
-        "txPower": 8
-    },
-    {
-        "band": "IN865",
-        "name": "WS513",
+        "band": "915",
         "txPower": 10
     },
     {
-        "band": "CN470",
         "name": "WS513",
+        "band": "868",
+        "txPower": 8
+    },
+    {
+        "name": "WS513",
+        "band": "IN865",
+        "txPower": 10
+    },
+    {
+        "name": "WS513",
+        "band": "470",
         "txPower": 11.15
     },
     {
-        "band": "US915",
         "name": "WS515",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "WS515",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "WS515",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "WS515",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "WS515",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "WS515",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "WS515",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "WS515",
-        "txPower": 8
-    },
-    {
-        "band": "RU864",
-        "name": "WS515",
-        "txPower": 8
-    },
-    {
-        "band": "IN865",
-        "name": "WS515",
+        "band": "915",
         "txPower": 10
     },
     {
-        "band": "CN470",
         "name": "WS515",
-        "txPower": 11.15
-    },
-    {
-        "band": "US915",
-        "name": "WS516",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "WS516",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "WS516",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "WS516",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "WS516",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "WS516",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "WS516",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "WS516",
+        "band": "868",
         "txPower": 8
     },
     {
-        "band": "RU864",
-        "name": "WS516",
-        "txPower": 8
-    },
-    {
+        "name": "WS515",
         "band": "IN865",
-        "name": "WS516",
         "txPower": 10
     },
     {
-        "band": "CN470",
-        "name": "WS516",
+        "name": "WS515",
+        "band": "470",
         "txPower": 11.15
     },
     {
-        "band": "US915",
+        "name": "WS516",
+        "band": "915",
+        "txPower": 10
+    },
+    {
+        "name": "WS516",
+        "band": "868",
+        "txPower": 8
+    },
+    {
+        "name": "WS516",
+        "band": "IN865",
+        "txPower": 10
+    },
+    {
+        "name": "WS516",
+        "band": "470",
+        "txPower": 11.15
+    },
+    {
         "name": "EM320-TH",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "AU915",
         "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "EM320-TH",
+        "band": "868",
         "txPower": 11
     },
     {
-        "band": "RU864",
-        "name": "EM320-TH",
+        "name": "EM320-TILT",
+        "band": "915",
+        "txPower": 14
+    },
+    {
+        "name": "EM320-TILT",
+        "band": "868",
         "txPower": 11
     },
     {
-        "band": "IN865",
-        "name": "EM320-TH",
-        "txPower": 11
-    },
-    {
-        "band": "EU868",
-        "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "RU864",
-        "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "EM320-TH",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "EM320-TILT",
-        "txPower": 11
-    },
-    {
-        "band": "RU864",
-        "name": "EM320-TILT",
-        "txPower": 11
-    },
-    {
-        "band": "IN865",
-        "name": "EM320-TILT",
-        "txPower": 11
-    },
-    {
-        "band": "EU868",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "RU864",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "EM320-TILT",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
         "name": "TS301",
+        "band": "915",
+        "txPower": 14
+    },
+    {
+        "name": "TS301",
+        "band": "868",
         "txPower": 12
     },
     {
-        "band": "AU915",
         "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "US915",
-        "name": "TS301",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "AU915",
         "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "RU864",
-        "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "IN865",
-        "name": "TS301",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "RU864",
-        "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "TS301",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "TS301",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "US915",
         "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "AU915",
-        "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "US915",
-        "name": "TS302",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "AU915",
         "name": "TS302",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "TS302",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "TS302",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "TS302",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "TS302",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "TS302",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "TS302",
+        "band": "868",
         "txPower": 12
     },
     {
-        "band": "RU864",
         "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "IN865",
-        "name": "TS302",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "TS302",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "TS302",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "TS302",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "TS302",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "US915",
         "name": "VS340",
+        "band": "915",
         "txPower": 10
     },
     {
-        "band": "AU915",
         "name": "VS340",
-        "txPower": 10
-    },
-    {
-        "band": "KR920",
-        "name": "VS340",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS340",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS340",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS340",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS340",
-        "txPower": 10
-    },
-    {
-        "band": "US915",
-        "name": "VS340",
+        "band": "868",
         "txPower": 12
     },
     {
-        "band": "AU915",
         "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "US915",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "RU864",
-        "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "IN865",
-        "name": "VS340",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "RU864",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "VS340",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "VS340",
-        "txPower": 9.15
-    },
-    {
-        "band": "US915",
-        "name": "VS341",
-        "txPower": 10
-    },
-    {
-        "band": "AU915",
-        "name": "VS341",
-        "txPower": 10
-    },
-    {
-        "band": "KR920",
-        "name": "VS341",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS341",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS341",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS341",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS341",
-        "txPower": 10
-    },
-    {
-        "band": "US915",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "AU915",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "US915",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "RU864",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "IN865",
-        "name": "VS341",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "RU864",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "VS341",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "VS341",
-        "txPower": 9.15
-    },
-    {
-        "band": "US915",
-        "name": "WS201",
-        "txPower": 12
-    },
-    {
-        "band": "AU915",
-        "name": "WS201",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "WS201",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "WS201",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "WS201",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "WS201",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "WS201",
-        "txPower": 12
-    },
-    {
-        "band": "US915",
-        "name": "WS201",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "WS201",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "WS201",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "WS201",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "WS201",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "WS201",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "WS201",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "RU864",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "WT101",
-        "txPower": 14
-    },
-    {
-        "band": "US915",
-        "name": "VS350",
-        "txPower": 14
-    },
-    {
-        "band": "AU915",
-        "name": "VS350",
-        "txPower": 14
-    },
-    {
-        "band": "KR920",
-        "name": "VS350",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS350",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS350",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS350",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS350",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "VS350",
+        "band": "470",
         "txPower": 15.15
     },
     {
-        "band": "US915",
-        "name": "WT201",
-        "txPower": 16
+        "name": "VS341",
+        "band": "915",
+        "txPower": 10
     },
     {
-        "band": "AU915",
-        "name": "WT201",
-        "txPower": 16
+        "name": "VS341",
+        "band": "868",
+        "txPower": 12
     },
     {
-        "band": "KR920",
-        "name": "WT201",
+        "name": "VS341",
+        "band": "470",
+        "txPower": 15.15
+    },
+    {
+        "name": "WS201",
+        "band": "915",
+        "txPower": 12
+    },
+    {
+        "name": "WS201",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "AS923-1",
+        "name": "WS201",
+        "band": "470",
+        "txPower": 15.15
+    },
+    {
+        "name": "WT101",
+        "band": "915",
+        "txPower": 14
+    },
+    {
+        "name": "WT101",
+        "band": "868",
+        "txPower": 14
+    },
+    {
+        "name": "VS350",
+        "band": "915",
+        "txPower": 14
+    },
+    {
+        "name": "VS350",
+        "band": "470",
+        "txPower": 15.15
+    },
+    {
         "name": "WT201",
+        "band": "915",
         "txPower": 16
     },
     {
-        "band": "AS923-2",
         "name": "WT201",
-        "txPower": 16
-    },
-    {
-        "band": "AS923-3",
-        "name": "WT201",
-        "txPower": 16
-    },
-    {
-        "band": "AS923-4",
-        "name": "WT201",
-        "txPower": 16
-    },
-    {
-        "band": "EU868",
-        "name": "WT201",
-        "txPower": 16
-    },
-    {
-        "band": "RU864",
-        "name": "WT201",
-        "txPower": 16
-    },
-    {
-        "band": "IN865",
-        "name": "WT201",
-        "txPower": 16
-    },
-    {
-        "band": "US915",
-        "name": "AM103",
-        "txPower": 8
-    },
-    {
-        "band": "AU915",
-        "name": "AM103",
-        "txPower": 8
-    },
-    {
         "band": "KR920",
+        "txPower": 14
+    },
+    {
+        "name": "WT201",
+        "band": "868",
+        "txPower": 16
+    },
+    {
         "name": "AM103",
+        "band": "915",
         "txPower": 8
     },
     {
-        "band": "AS923-1",
         "name": "AM103",
-        "txPower": 8
-    },
-    {
-        "band": "AS923-2",
-        "name": "AM103",
-        "txPower": 8
-    },
-    {
-        "band": "AS923-3",
-        "name": "AM103",
-        "txPower": 8
-    },
-    {
-        "band": "AS923-4",
-        "name": "AM103",
-        "txPower": 8
-    },
-    {
-        "band": "US915",
-        "name": "AM103",
+        "band": "868",
         "txPower": 12
     },
     {
-        "band": "AU915",
         "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "RU864",
-        "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "IN865",
-        "name": "AM103",
-        "txPower": 12
-    },
-    {
-        "band": "CN470",
-        "name": "AM103",
+        "band": "470",
         "txPower": 9.15
     },
     {
-        "band": "US915",
         "name": "AM103L",
+        "band": "915",
         "txPower": 10
     },
     {
-        "band": "AU915",
         "name": "AM103L",
-        "txPower": 10
-    },
-    {
-        "band": "KR920",
-        "name": "AM103L",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-1",
-        "name": "AM103L",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-2",
-        "name": "AM103L",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-3",
-        "name": "AM103L",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-4",
-        "name": "AM103L",
-        "txPower": 10
-    },
-    {
-        "band": "US915",
-        "name": "AM103L",
+        "band": "868",
         "txPower": 12
     },
     {
-        "band": "AU915",
         "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "RU864",
-        "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "IN865",
-        "name": "AM103L",
-        "txPower": 12
-    },
-    {
-        "band": "CN470",
-        "name": "AM103L",
+        "band": "470",
         "txPower": 9.15
     },
     {
-        "band": "US915",
         "name": "AM102",
+        "band": "915",
         "txPower": 12
     },
     {
-        "band": "AU915",
         "name": "AM102",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "AM102",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "AM102",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "AM102",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "AM102",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "AM102",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "AM102",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "AM102",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "AM102",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "AM102",
+        "band": "470",
         "txPower": 11.15
     },
     {
-        "band": "US915",
         "name": "AM102L",
+        "band": "915",
         "txPower": 12
     },
     {
-        "band": "AU915",
         "name": "AM102L",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "AM102L",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "AM102L",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "AM102L",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "AM102L",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "AM102L",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "AM102L",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "AM102L",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "AM102L",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "AM102L",
+        "band": "470",
         "txPower": 11.15
     },
     {
-        "band": "US915",
         "name": "TS201",
+        "band": "915",
         "txPower": 12
     },
     {
-        "band": "AU915",
         "name": "TS201",
-        "txPower": 12
-    },
-    {
-        "band": "KR920",
-        "name": "TS201",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-1",
-        "name": "TS201",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-2",
-        "name": "TS201",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-3",
-        "name": "TS201",
-        "txPower": 12
-    },
-    {
-        "band": "AS923-4",
-        "name": "TS201",
-        "txPower": 12
-    },
-    {
-        "band": "EU868",
-        "name": "TS201",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "RU864",
         "name": "TS201",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "TS201",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "TS201",
+        "band": "470",
         "txPower": 9.15
     },
     {
-        "band": "US915",
         "name": "VS360",
+        "band": "915",
         "txPower": 10
     },
     {
-        "band": "AU915",
         "name": "VS360",
+        "band": "868",
         "txPower": 10
     },
     {
-        "band": "KR920",
         "name": "VS360",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS360",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS360",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS360",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS360",
-        "txPower": 10
-    },
-    {
-        "band": "EU868",
-        "name": "VS360",
-        "txPower": 12
-    },
-    {
-        "band": "RU864",
-        "name": "VS360",
-        "txPower": 12
-    },
-    {
-        "band": "IN865",
-        "name": "VS360",
-        "txPower": 12
-    },
-    {
-        "band": "CN470",
-        "name": "VS360",
+        "band": "470",
         "txPower": 9.15
     },
     {
-        "band": "US915",
         "name": "GS601",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "AU915",
         "name": "GS601",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "KR920",
-        "name": "GS601",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "GS601",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "GS601",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "GS601",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "GS601",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "GS601",
-        "txPower": 12
-    },
-    {
-        "band": "RU864",
-        "name": "GS601",
-        "txPower": 12
-    },
-    {
-        "band": "IN865",
-        "name": "GS601",
-        "txPower": 12
-    },
-    {
-        "band": "US915",
         "name": "EM410",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "AU915",
         "name": "EM410",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "KR920",
         "name": "EM410",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "EM410",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "EM410",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "EM410",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "EM410",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "EM410",
+        "band": "470",
         "txPower": 10.15
     },
     {
-        "band": "RU864",
-        "name": "EM410",
-        "txPower": 10.15
-    },
-    {
-        "band": "IN865",
-        "name": "EM410",
-        "txPower": 10.15
-    },
-    {
-        "band": "CN470",
-        "name": "EM410",
-        "txPower": 10.15
-    },
-    {
-        "band": "US915",
         "name": "VS370",
+        "band": "915",
         "txPower": 14
     },
     {
-        "band": "AU915",
         "name": "VS370",
+        "band": "868",
         "txPower": 14
     },
     {
-        "band": "KR920",
         "name": "VS370",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS370",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS370",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS370",
-        "txPower": 14
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS370",
-        "txPower": 14
-    },
-    {
-        "band": "EU868",
-        "name": "VS370",
-        "txPower": 14
-    },
-    {
-        "band": "RU864",
-        "name": "VS370",
-        "txPower": 14
-    },
-    {
-        "band": "IN865",
-        "name": "VS370",
-        "txPower": 14
-    },
-    {
-        "band": "CN470",
-        "name": "VS370",
+        "band": "470",
         "txPower": 11.15
     },
     {
-        "band": "US915",
         "name": "VS373",
+        "band": "915",
         "txPower": 10
     },
     {
-        "band": "AU915",
         "name": "VS373",
-        "txPower": 10
-    },
-    {
-        "band": "KR920",
-        "name": "VS373",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-1",
-        "name": "VS373",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-2",
-        "name": "VS373",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-3",
-        "name": "VS373",
-        "txPower": 10
-    },
-    {
-        "band": "AS923-4",
-        "name": "VS373",
-        "txPower": 10
-    },
-    {
-        "band": "EU868",
-        "name": "VS373",
-        "txPower": 10
-    },
-    {
-        "band": "RU864",
-        "name": "VS373",
-        "txPower": 10
-    },
-    {
-        "band": "IN865",
-        "name": "VS373",
+        "band": "868",
         "txPower": 10
     }
 ]
