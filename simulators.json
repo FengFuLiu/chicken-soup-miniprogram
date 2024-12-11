@@ -255,6 +255,21 @@
         "txPower": 15.15
     },
     {
+        "name": "WS201",
+        "band": "915",
+        "txPower": 12
+    },
+    {
+        "name": "WS201",
+        "band": "868",
+        "txPower": 14
+    },
+    {
+        "name": "WS201",
+        "band": "470",
+        "txPower": 15.15
+    },
+    {
         "name": "WS513",
         "band": "915",
         "txPower": 10
@@ -335,6 +350,21 @@
         "txPower": 11
     },
     {
+        "name": "TS201",
+        "band": "915",
+        "txPower": 12
+    },
+    {
+        "name": "TS201",
+        "band": "868",
+        "txPower": 14
+    },
+    {
+        "name": "TS201",
+        "band": "470",
+        "txPower": 9.15
+    },
+    {
         "name": "TS301",
         "band": "915",
         "txPower": 14
@@ -401,21 +431,6 @@
     },
     {
         "name": "VS341",
-        "band": "470",
-        "txPower": 15.15
-    },
-    {
-        "name": "WS201",
-        "band": "915",
-        "txPower": 12
-    },
-    {
-        "name": "WS201",
-        "band": "868",
-        "txPower": 14
-    },
-    {
-        "name": "WS201",
         "band": "470",
         "txPower": 15.15
     },
@@ -455,6 +470,36 @@
         "txPower": 16
     },
     {
+        "name": "AM102",
+        "band": "915",
+        "txPower": 12
+    },
+    {
+        "name": "AM102",
+        "band": "868",
+        "txPower": 14
+    },
+    {
+        "name": "AM102",
+        "band": "470",
+        "txPower": 11.15
+    },
+    {
+        "name": "AM102L",
+        "band": "915",
+        "txPower": 12
+    },
+    {
+        "name": "AM102L",
+        "band": "868",
+        "txPower": 14
+    },
+    {
+        "name": "AM102L",
+        "band": "470",
+        "txPower": 11.15
+    },
+    {
         "name": "AM103",
         "band": "915",
         "txPower": 8
@@ -481,51 +526,6 @@
     },
     {
         "name": "AM103L",
-        "band": "470",
-        "txPower": 9.15
-    },
-    {
-        "name": "AM102",
-        "band": "915",
-        "txPower": 12
-    },
-    {
-        "name": "AM102",
-        "band": "868",
-        "txPower": 14
-    },
-    {
-        "name": "AM102",
-        "band": "470",
-        "txPower": 11.15
-    },
-    {
-        "name": "AM102L",
-        "band": "915",
-        "txPower": 12
-    },
-    {
-        "name": "AM102L",
-        "band": "868",
-        "txPower": 14
-    },
-    {
-        "name": "AM102L",
-        "band": "470",
-        "txPower": 11.15
-    },
-    {
-        "name": "TS201",
-        "band": "915",
-        "txPower": 12
-    },
-    {
-        "name": "TS201",
-        "band": "868",
-        "txPower": 14
-    },
-    {
-        "name": "TS201",
         "band": "470",
         "txPower": 9.15
     },
